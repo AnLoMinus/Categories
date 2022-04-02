@@ -10,7 +10,8 @@
 <img align="center" width="479" alt="Categories" src="https://user-images.githubusercontent.com/51442719/161378910-17fbcf1b-c41d-4538-be96-97057679e982.png">
 </div>
 
-<div align="center">
-  
+<h2 align="center">
+
+<br>
 - Categories   - Business  - Developer Tools  - Education  - Entertaiment  - Finance  - Games  - Graphics &amp; Design  - Lifestyle  - Medical  - Music  - Photo &amp; Video  - Productivity  - Reference  - Social Networking  - Sports  - Travel  - Utilities  - Weather
-  </div>
+  </h2>
